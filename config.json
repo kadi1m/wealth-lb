@@ -1,7 +1,7 @@
 {
-  "token": "ODQ3NjEyMTY0MTI2NDA4Nzgw.GuoG-p.tSsRjtlWKrvZI43p9aWdMfoWcO6_H-Rx3smLjY",
-  "channelId": "1397026619633172481",
-  "messageId": "1397037296011841637",
+  "token": "",
+  "channelId": "",
+  "messageId": "leave blank",
   "updateInterval": 60000,
   "mysql": {
     "host": "localhost",
